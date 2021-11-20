@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @wilddesign8
+- 👀 I’m interested in web design and development...
+- 🌱 I’m currently learning full stac web development in mern stack...
+- 💞️ I’m looking to collaborate on ...
+- 📫 N/A
+<!---
+wilddesign8/wilddesign8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
